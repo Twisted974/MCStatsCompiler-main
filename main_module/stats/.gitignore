@@ -1,0 +1,6 @@
+*
+!.gitignore
+password.txt
+username.txt
+cobblemon_module\cobblemon_config.ini
+main_module\main_config.ini
